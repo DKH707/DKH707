@@ -1,6 +1,6 @@
 ## DEREK HOPKINS - Computer Science Student
 
-> 🌱 I’m currently learning how to write production code as well as getting more familiar with GoLang. 
+> 🌱 I’m currently growing my coding skills by writing production code and getting familiar with a multitude of technologies. 
 
 > <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dkh707&&show_icons=true&theme=radical" alt="Derek's Github Stats">
