@@ -23,7 +23,6 @@
 <img src="https://github-stats-alpha.vercel.app/api?username=dkh707&cc=F5E1C0&tc=94233e&ic=000000&bc=8b0000">
 </a>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dkh707&show_icons=true&locale=en&layout=donut&theme=moltack"/>
 </p>
 
 
